@@ -1,1 +1,3 @@
 README inicial + cambios
+Agregando información de README...
+add in developer
